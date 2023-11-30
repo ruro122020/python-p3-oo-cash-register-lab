@@ -4,7 +4,7 @@ from cash_register import CashRegister
 
 import io
 import sys
-
+import ipdb
 class TestCashRegister:
     '''CashRegister in cash_register.py'''
 
